@@ -2,10 +2,10 @@ class Gppro < Formula
   desc "Manage applets and keys on Java Cards"
   homepage "https://github.com/martinpaljak/GlobalPlatformPro"
 
-  version "20.08.12"
+  version "24.10.15"
 
-  url "https://github.com/martinpaljak/GlobalPlatformPro/releases/download/v20.08.12/gp.jar"
-  sha256 "a2f0c46e1c1cb533494745987de759d6c8bbcd86ce6c9163f2f7cdfeaa2b2181"
+  url "https://github.com/martinpaljak/GlobalPlatformPro/releases/download/v24.10.15/gp.jar"
+  sha256 "a68eca9ab9be84a0560b2d312ca6a18cd2dbcd223bb7b30525e0e0f85a372696"
 
   head "https://github.com/martinpaljak/GlobalPlatformPro.git", branch: "master"
 
